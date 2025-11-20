@@ -1,11 +1,8 @@
 import {Link} from "react-router";
 import {usePuterStore} from "~/lib/puter";
-import {useEffect} from "react";
 
 const Navbar= () =>{
     const {auth} = usePuterStore();
-    useEffect(() => {
-    }, [auth.isAuthenticated]);
 
     return(
         <nav className="navbar">

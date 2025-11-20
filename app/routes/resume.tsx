@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import { resume } from "react-dom/server";
 import { Link, useNavigate, useParams } from "react-router";
 import Ats from "~/components/ATS";
 import Details from "~/components/Details";

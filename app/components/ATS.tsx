@@ -1,4 +1,4 @@
-import React from 'react'
+// React component file
 
 interface Suggestion {
   type: "good" | "improve";
