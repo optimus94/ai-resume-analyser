@@ -1,0 +1,1 @@
+import{w as s,p as e}from"./chunk-4WY6JWTD-Dcf9bGPO.js";const r=s(function(){return e.jsxs("div",{style:{padding:"2rem",fontFamily:"sans-serif"},children:[e.jsx("h1",{children:"✅ App is Loading!"}),e.jsx("p",{children:"If you can see this, React Router is working."}),e.jsx("p",{children:e.jsx("a",{href:"/ai-resume-analyzer/",children:"Go to Home"})})]})});export{r as default};
