@@ -1,6 +1,5 @@
 {
   "name": "ai-resume-analyzer",
-  "home": "https://optimus94.github.io/ai-resume-analyser",
   "private": true,
   "type": "module",
   "scripts": {
@@ -8,8 +7,6 @@
     "dev": "react-router dev",
     "start": "react-router-serve ./build/server/index.js",
     "typecheck": "react-router typegen && tsc",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@react-router/node": "^7.9.2",
