@@ -2,6 +2,7 @@
   "name": "ai-resume-analyzer",
   "private": true,
   "type": "module",
+  "home": "https://optimus94.github.io/ai-resume-analyzer",
   "scripts": {
     "build": "react-router build",
     "dev": "react-router dev",
